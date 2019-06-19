@@ -4,7 +4,7 @@ class Dog
   end
 
   def name                        #getter method
-    @this_dogs_name
+    @dog_name
   end
 
   def bark                      #barking method
