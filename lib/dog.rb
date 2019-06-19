@@ -10,7 +10,7 @@ class Dog
   def bark                      #barking method
     puts "Woof!"
   end
-
+end
 
 fido = Dog.new
 puts fido.bark
