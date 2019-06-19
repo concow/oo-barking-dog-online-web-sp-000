@@ -11,9 +11,3 @@ class Dog
     puts "Woof!"
   end
 end
-
-fido = Dog.new
-puts fido.bark
-#fido.name = "Fido"
-
-fido.bark
