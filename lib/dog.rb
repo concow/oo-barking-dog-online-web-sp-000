@@ -8,6 +8,6 @@ class Dog
   end
 
   def bark                      #barking method
-    puts "Woof!"
+    puts "woof!"
   end
 end
